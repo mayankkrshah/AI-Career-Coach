@@ -330,6 +330,17 @@ The baseline system shows strong response grounding (faithfulness) and relevance
 - Real-world performance correlation
 - A/B testing framework for iterative improvements
 
+
+## 🎥 Demo Video
+
+**Complete system demonstration:**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="https://www.loom.com/embed/e5877b1875684abe81d4c591b72a2cdc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+**[🎬 Direct Link to Video](https://www.loom.com/share/e5877b1875684abe81d4c591b72a2cdc)**
+
 ---
 
 *This document serves as the comprehensive documentation for the AI Career Coach certification challenge, addressing all requirements across the 7 main tasks and demonstrating both technical competence and practical problem-solving ability for AI/ML career guidance.*
